@@ -6,3 +6,8 @@ body {
     color: rgb(224, 9, 120);
     font-family: "Roboto Condensed", sans-serif;  
 }
+
+.cabecalho{
+background-color: rgb(205, 171, 129);
+text-align: center;
+}
