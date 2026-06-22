@@ -23,5 +23,8 @@ height: 80px;
 }
 main{
 background-color: rgb(255, 255, 255);
-
+color: blueviolet;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
 }
