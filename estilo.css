@@ -22,9 +22,15 @@ width: 80px;
 height: 80px;
 }
 main{
-background-color: #fff;
-color: blueviolet;
+background-color: #000000;
+color: rgb(255, 255, 255);
 max-width: 800px;
 margin: 0 auto;
 padding: 16px;
+}
+article{
+display:flex;
+}
+.texto-post{
+
 }
